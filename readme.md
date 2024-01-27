@@ -110,5 +110,10 @@ Data persistence is achieved through MongoDB, a NoSQL database. Tasks are stored
 Feel free to contribute or report issues. Happy coding!# TODO-APP
 
 ![Login Screen](https://github.com/DHANRAJCHOUDHARY244/TODO-APP/blob/main/screenshot/s1.png)
+![Login Screen](https://github.com/DHANRAJCHOUDHARY244/TODO-APP/blob/main/screenshot/s2.png)
+![Login Screen](https://github.com/DHANRAJCHOUDHARY244/TODO-APP/blob/main/screenshot/s3.png)
+![Login Screen](https://github.com/DHANRAJCHOUDHARY244/TODO-APP/blob/main/screenshot/s4.png)
+![Login Screen](https://github.com/DHANRAJCHOUDHARY244/TODO-APP/blob/main/screenshot/s5.png)
+![Login Screen](https://github.com/DHANRAJCHOUDHARY244/TODO-APP/blob/main/screenshot/s6.png)
+![Login Screen](https://github.com/DHANRAJCHOUDHARY244/TODO-APP/blob/main/screenshot/s7.png)
 
-![Register]([https://github.com/DHANRAJCHOUDHARY244/TODO-APP/blob/main/screenshot/s2.png?raw=true])
